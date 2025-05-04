@@ -1,0 +1,503 @@
+2025-05-04 13:14:59.417 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
+2025-05-04 13:15:00.290 [info] [Info  - 1:15:00 PM] (11780) Server root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 13:15:00.291 [info] [Info  - 1:15:00 PM] (11780) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-05-04 13:15:00.291 [info] [Info  - 1:15:00 PM] (11780) Starting service instance "site-packages" for workspace "c:\users\bharath\anaconda3\lib\site-packages"
+2025-05-04 13:15:00.402 [info] [Info  - 1:15:00 PM] (11780) Setting environmentName for service "site-packages": "python"
+2025-05-04 13:15:00.403 [info] [Info  - 1:15:00 PM] (11780) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 13:15:00.404 [info] [Info  - 1:15:00 PM] (11780) Auto-excluding **/node_modules
+2025-05-04 13:15:00.404 [info] [Info  - 1:15:00 PM] (11780) Auto-excluding **/__pycache__
+2025-05-04 13:15:00.405 [info] [Info  - 1:15:00 PM] (11780) Auto-excluding **/.*
+2025-05-04 13:15:00.615 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:00.804 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:02.329 [info] [Info  - 1:15:02 PM] (11780) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 13:15:12.468 [info] [Info  - 1:15:12 PM] (11780) Found 42631 source files
+2025-05-04 13:15:12.550 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:12.552 [info] [Info  - 1:15:12 PM] (11780) BG: Priority queue background worker(2) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 13:15:12.553 [info] [Info  - 1:15:12 PM] (11780) BG: Priority queue background worker(2) started
+2025-05-04 13:15:12.591 [info] [Info  - 1:15:12 PM] (11780) Setting environmentName for service "site-packages": "python"
+2025-05-04 13:15:12.591 [info] [Info  - 1:15:12 PM] (11780) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 13:15:12.591 [info] [Info  - 1:15:12 PM] (11780) Auto-excluding **/node_modules
+2025-05-04 13:15:12.591 [info] [Info  - 1:15:12 PM] (11780) Auto-excluding **/__pycache__
+2025-05-04 13:15:12.591 [info] [Info  - 1:15:12 PM] (11780) Auto-excluding **/.*
+2025-05-04 13:15:12.751 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:12.934 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:14.244 [info] [Info  - 1:15:14 PM] (11780) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 13:15:21.211 [info] [Info  - 1:15:21 PM] (11780) Found 42631 source files
+2025-05-04 13:15:21.265 [info] [Info  - 1:15:21 PM] (11780) Starting service instance "site-packages" for workspace "c:\users\bharath\anaconda3\lib\site-packages"
+2025-05-04 13:15:21.277 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:21.358 [info] [Info  - 1:15:21 PM] (11780) Setting environmentName for service "site-packages": "python"
+2025-05-04 13:15:21.358 [info] [Info  - 1:15:21 PM] (11780) Setting pythonPath for service "site-packages": "c:\Users\BHARATH\.vscode\extensions\ms-python.vscode-pylance-2025.4.1\dist"
+2025-05-04 13:15:21.359 [info] [Info  - 1:15:21 PM] (11780) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 13:15:21.364 [info] [Info  - 1:15:21 PM] (11780) Auto-excluding **/node_modules
+2025-05-04 13:15:21.364 [info] [Info  - 1:15:21 PM] (11780) Auto-excluding **/__pycache__
+2025-05-04 13:15:21.364 [info] [Info  - 1:15:21 PM] (11780) Auto-excluding **/.*
+2025-05-04 13:15:22.667 [info] [Info  - 1:15:22 PM] (11780) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 13:15:33.161 [info] [Info  - 1:15:33 PM] (11780) Found 42631 source files
+2025-05-04 13:15:33.530 [info] [Info  - 1:15:33 PM] (11780) BG: Priority queue background worker(4) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 13:15:33.531 [info] [Info  - 1:15:33 PM] (11780) BG: Priority queue background worker(4) started
+2025-05-04 13:15:33.753 [info] [Info  - 1:15:33 PM] Server process exited successfully
+2025-05-04 13:15:34.104 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
+2025-05-04 13:15:35.538 [info] [Info  - 1:15:35 PM] (17608) Server root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 13:15:35.542 [info] [Info  - 1:15:35 PM] (17608) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-05-04 13:15:35.554 [info] [Info  - 1:15:35 PM] (17608) Starting service instance "site-packages" for workspace "c:\users\bharath\anaconda3\lib\site-packages"
+2025-05-04 13:15:35.638 [info] [Info  - 1:15:35 PM] (17608) Setting environmentName for service "site-packages": "python"
+2025-05-04 13:15:35.641 [info] [Info  - 1:15:35 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 13:15:35.641 [info] [Info  - 1:15:35 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 13:15:35.641 [info] [Info  - 1:15:35 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 13:15:35.641 [info] [Info  - 1:15:35 PM] (17608) Auto-excluding **/.*
+2025-05-04 13:15:35.959 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:36.210 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:38.414 [info] [Info  - 1:15:38 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 13:15:46.370 [info] [Error - 1:15:46 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 13:15:51.141 [info] [Info  - 1:15:51 PM] (17608) Found 42631 source files
+2025-05-04 13:15:51.226 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:51.312 [info] [Info  - 1:15:51 PM] (17608) BG: Priority queue background worker(2) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 13:15:51.312 [info] [Info  - 1:15:51 PM] (17608) BG: Priority queue background worker(2) started
+2025-05-04 13:15:51.327 [info] [Info  - 1:15:51 PM] (17608) Setting environmentName for service "site-packages": "python"
+2025-05-04 13:15:51.328 [info] [Info  - 1:15:51 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 13:15:51.328 [info] [Info  - 1:15:51 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 13:15:51.328 [info] [Info  - 1:15:51 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 13:15:51.328 [info] [Info  - 1:15:51 PM] (17608) Auto-excluding **/.*
+2025-05-04 13:15:51.508 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:51.724 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:15:53.439 [info] [Info  - 1:15:53 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 13:16:00.953 [info] [Info  - 1:16:00 PM] (17608) Found 42631 source files
+2025-05-04 13:16:01.010 [info] [Info  - 1:16:01 PM] (17608) Starting service instance "site-packages" for workspace "c:\users\bharath\anaconda3\lib\site-packages"
+2025-05-04 13:16:01.023 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:16:01.100 [info] [Info  - 1:16:01 PM] (17608) Setting environmentName for service "site-packages": "python"
+2025-05-04 13:16:01.101 [info] [Info  - 1:16:01 PM] (17608) Setting pythonPath for service "site-packages": "c:\Users\BHARATH\.vscode\extensions\ms-python.vscode-pylance-2025.4.1\dist"
+2025-05-04 13:16:01.102 [info] [Info  - 1:16:01 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 13:16:01.102 [info] [Info  - 1:16:01 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 13:16:01.103 [info] [Info  - 1:16:01 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 13:16:01.103 [info] [Info  - 1:16:01 PM] (17608) Auto-excluding **/.*
+2025-05-04 13:16:02.313 [info] [Info  - 1:16:02 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 13:16:08.383 [info] [Info  - 1:16:08 PM] (17608) Found 42631 source files
+2025-05-04 13:16:08.577 [info] [Info  - 1:16:08 PM] (17608) BG: Priority queue background worker(4) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 13:16:08.577 [info] [Info  - 1:16:08 PM] (17608) BG: Priority queue background worker(4) started
+2025-05-04 13:16:08.578 [info] [Info  - 1:16:08 PM] (17608) Starting service instance "site-packages" for workspace "c:\users\bharath\anaconda3\lib\site-packages"
+2025-05-04 13:16:08.649 [info] [Info  - 1:16:08 PM] (17608) Setting environmentName for service "site-packages": "python"
+2025-05-04 13:16:08.649 [info] [Info  - 1:16:08 PM] (17608) Setting pythonPath for service "site-packages": "c:\Users\BHARATH\anaconda3\python.exe"
+2025-05-04 13:16:08.650 [info] [Info  - 1:16:08 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 13:16:08.650 [info] [Info  - 1:16:08 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 13:16:08.651 [info] [Info  - 1:16:08 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 13:16:08.651 [info] [Info  - 1:16:08 PM] (17608) Auto-excluding **/.*
+2025-05-04 13:16:08.775 [info] [Info  - 1:16:08 PM] (17608) Assuming Python version 3.12.7.final.0
+2025-05-04 13:16:10.231 [info] [Info  - 1:16:10 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 13:16:17.226 [info] [Info  - 1:16:17 PM] (17608) Found 42631 source files
+2025-05-04 13:16:17.298 [info] [Info  - 1:16:17 PM] (17608) BG: Priority queue background worker(6) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 13:16:17.299 [info] [Info  - 1:16:17 PM] (17608) BG: Priority queue background worker(6) started
+2025-05-04 13:16:18.143 [info] [Info  - 1:16:18 PM] (17608) BG: Indexer background runner(7) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 13:16:18.143 [info] [Info  - 1:16:18 PM] (17608) BG: Indexing(7) started
+2025-05-04 13:16:19.927 [info] [Info  - 1:16:19 PM] (17608) BG: scanned(7) 16 files over 1 exec env
+2025-05-04 13:16:20.425 [info] [Info  - 1:16:20 PM] (17608) BG: indexed(7) 16 files over 1 exec env
+2025-05-04 13:16:20.441 [info] [Info  - 1:16:20 PM] (17608) BG: Indexing finished(7).
+2025-05-04 13:16:31.411 [info] [Warn  - 1:16:31 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 13:56:41.978 [info] [Info  - 1:56:41 PM] (17608) Starting service instance "site-packages" for workspace "c:\users\bharath\anaconda3\lib\site-packages"
+2025-05-04 13:56:42.150 [info] [Info  - 1:56:42 PM] (17608) Setting environmentName for service "site-packages": "python"
+2025-05-04 13:56:42.151 [info] [Info  - 1:56:42 PM] (17608) Setting pythonPath for service "site-packages": "c:\Users\BHARATH\.vscode\extensions\ms-python.vscode-pylance-2025.4.1\dist"
+2025-05-04 13:56:42.152 [info] [Info  - 1:56:42 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 13:56:42.152 [info] [Info  - 1:56:42 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 13:56:42.153 [info] [Info  - 1:56:42 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 13:56:42.153 [info] [Info  - 1:56:42 PM] (17608) Auto-excluding **/.*
+2025-05-04 13:56:44.376 [info] [Info  - 1:56:44 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 13:56:52.316 [info] [Error - 1:56:52 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 13:56:55.083 [info] [Info  - 1:56:55 PM] (17608) Found 42631 source files
+2025-05-04 13:56:55.242 [info] [Info  - 1:56:55 PM] (17608) BG: Priority queue background worker(9) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 13:56:55.243 [info] [Info  - 1:56:55 PM] (17608) BG: Priority queue background worker(9) started
+2025-05-04 13:56:55.259 [info] [Info  - 1:56:55 PM] (17608) Starting service instance "site-packages" for workspace "c:\users\bharath\anaconda3\lib\site-packages"
+2025-05-04 13:56:55.361 [info] [Info  - 1:56:55 PM] (17608) Setting environmentName for service "site-packages": "python"
+2025-05-04 13:56:55.363 [info] [Info  - 1:56:55 PM] (17608) Setting pythonPath for service "site-packages": "c:\Users\BHARATH\anaconda3\python.exe"
+2025-05-04 13:56:55.365 [info] [Info  - 1:56:55 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 13:56:55.367 [info] [Info  - 1:56:55 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 13:56:55.368 [info] [Info  - 1:56:55 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 13:56:55.368 [info] [Info  - 1:56:55 PM] (17608) Auto-excluding **/.*
+2025-05-04 13:56:55.543 [info] [Info  - 1:56:55 PM] (17608) Assuming Python version 3.12.7.final.0
+2025-05-04 13:56:58.180 [info] [Info  - 1:56:58 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 13:57:08.576 [info] [Info  - 1:57:08 PM] (17608) Found 42631 source files
+2025-05-04 13:57:08.665 [info] [Info  - 1:57:08 PM] (17608) BG: Indexer background runner(10) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-05-04 13:57:08.666 [info] [Info  - 1:57:08 PM] (17608) BG: Indexing(10) started
+2025-05-04 13:57:08.666 [info] [Info  - 1:57:08 PM] (17608) BG: scanned(10) 4 files over 1 exec env
+2025-05-04 13:57:08.781 [info] [Info  - 1:57:08 PM] (17608) BG: Priority queue background worker(12) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 13:57:08.782 [info] [Info  - 1:57:08 PM] (17608) BG: Priority queue background worker(12) started
+2025-05-04 13:57:11.337 [info] [Info  - 1:57:11 PM] (17608) BG: scanned(10) 16 files over 1 exec env
+2025-05-04 13:57:11.923 [info] [Info  - 1:57:11 PM] (17608) BG: indexed(10) 16 files over 1 exec env
+2025-05-04 13:57:12.585 [info] [Info  - 1:57:12 PM] (17608) BG: scanned(10) 16 files over 1 exec env
+2025-05-04 13:57:12.907 [info] [Info  - 1:57:12 PM] (17608) BG: indexed(10) 16 files over 1 exec env
+2025-05-04 13:57:12.920 [info] [Info  - 1:57:12 PM] (17608) BG: Indexing finished(10).
+2025-05-04 13:57:22.535 [info] [Warn  - 1:57:22 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 13:59:36.666 [info] [Info  - 1:59:36 PM] (17608) BG: Indexer background runner(13) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-05-04 13:59:36.666 [info] [Info  - 1:59:36 PM] (17608) BG: Indexing(13) started
+2025-05-04 13:59:37.188 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 13:59:37.783 [info] [Info  - 1:59:37 PM] (17608) BG: scanned(13) 4 files over 1 exec env
+2025-05-04 13:59:38.099 [info] [Info  - 1:59:38 PM] (17608) BG: [BG(11)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (2788ms)
+2025-05-04 13:59:38.100 [info] [Info  - 1:59:38 PM] (17608) BG: [BG(11)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (2789ms)
+2025-05-04 13:59:38.119 [info] [Info  - 1:59:38 PM] (17608) BG: indexed(13) 4 files over 1 exec env
+2025-05-04 13:59:38.147 [info] [Info  - 1:59:38 PM] (17608) BG: Indexing finished(13).
+2025-05-04 13:59:54.283 [info] [Warn  - 1:59:54 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:00:47.103 [info] [Info  - 2:00:47 PM] (17608) Setting environmentName for service "site-packages": "3.12.7 (base conda)"
+2025-05-04 14:00:47.103 [info] [Info  - 2:00:47 PM] (17608) Setting pythonPath for service "site-packages": "C:\Users\BHARATH\anaconda3\python.exe"
+2025-05-04 14:00:47.103 [info] [Info  - 2:00:47 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 14:00:47.104 [info] [Info  - 2:00:47 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 14:00:47.104 [info] [Info  - 2:00:47 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 14:00:47.104 [info] [Info  - 2:00:47 PM] (17608) Auto-excluding **/.*
+2025-05-04 14:00:47.313 [info] [Info  - 2:00:47 PM] (17608) Assuming Python version 3.12.7.final.0
+2025-05-04 14:00:49.305 [info] [Info  - 2:00:49 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:00:57.614 [info] [Error - 2:00:57 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:01:03.454 [info] [Info  - 2:01:03 PM] (17608) Found 42631 source files
+2025-05-04 14:01:03.598 [info] [Info  - 2:01:03 PM] (17608) Setting environmentName for service "site-packages": "3.12.7 (base conda)"
+2025-05-04 14:01:03.598 [info] [Info  - 2:01:03 PM] (17608) Setting pythonPath for service "site-packages": "c:\Users\BHARATH\anaconda3\python.exe"
+2025-05-04 14:01:03.599 [info] [Info  - 2:01:03 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 14:01:03.599 [info] [Info  - 2:01:03 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 14:01:03.599 [info] [Info  - 2:01:03 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 14:01:03.600 [info] [Info  - 2:01:03 PM] (17608) Auto-excluding **/.*
+2025-05-04 14:01:03.870 [info] [Info  - 2:01:03 PM] (17608) Assuming Python version 3.12.7.final.0
+2025-05-04 14:01:07.117 [info] [Info  - 2:01:07 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:01:14.289 [info] [Error - 2:01:14 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:01:18.368 [info] [Info  - 2:01:18 PM] (17608) Found 42631 source files
+2025-05-04 14:01:18.401 [info] [Info  - 2:01:18 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (2925ms)
+2025-05-04 14:01:18.403 [info] [Info  - 2:01:18 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3702ms)
+2025-05-04 14:01:18.462 [info] [Info  - 2:01:18 PM] (17608) BG: Indexer background runner(14) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-05-04 14:01:18.462 [info] [Info  - 2:01:18 PM] (17608) BG: Indexing(14) started
+2025-05-04 14:01:18.463 [info] [Info  - 2:01:18 PM] (17608) BG: scanned(14) 16 files over 1 exec env
+2025-05-04 14:01:22.082 [info] [Info  - 2:01:22 PM] (17608) BG: indexed(14) 16 files over 1 exec env
+2025-05-04 14:01:22.139 [info] [Info  - 2:01:22 PM] (17608) BG: [BG(11)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (2298ms)
+2025-05-04 14:01:22.493 [info] [Info  - 2:01:22 PM] (17608) BG: scanned(14) 16 files over 1 exec env
+2025-05-04 14:01:22.761 [info] [Info  - 2:01:22 PM] (17608) BG: indexed(14) 16 files over 1 exec env
+2025-05-04 14:01:22.788 [info] [Info  - 2:01:22 PM] (17608) BG: Indexing finished(14).
+2025-05-04 14:01:23.183 [info] [Warn  - 2:01:23 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:01:32.562 [info] [Warn  - 2:01:32 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:09:33.800 [info] [Info  - 2:09:33 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:09:40.443 [info] [Error - 2:09:40 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:09:53.754 [info] [Info  - 2:09:53 PM] (17608) Found 42118 source files
+2025-05-04 14:09:56.865 [info] [Info  - 2:09:56 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:10:03.950 [info] [Error - 2:10:03 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:10:20.501 [info] [Info  - 2:10:20 PM] (17608) Found 42154 source files
+2025-05-04 14:10:20.514 [info] [Info  - 2:10:20 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (5669ms)
+2025-05-04 14:10:20.515 [info] [Info  - 2:10:20 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (6410ms)
+2025-05-04 14:10:26.832 [info] [Info  - 2:10:26 PM] (17608) BG: [BG(11)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (2849ms)
+2025-05-04 14:10:40.766 [info] [Info  - 2:10:40 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:10:47.413 [info] [Error - 2:10:47 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:11:04.113 [info] [Info  - 2:11:04 PM] (17608) Found 42187 source files
+2025-05-04 14:11:04.178 [info] [Warn  - 2:11:04 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:11:13.456 [info] [Info  - 2:11:13 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3704ms)
+2025-05-04 14:11:13.457 [info] [Info  - 2:11:13 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4214ms)
+2025-05-04 14:11:18.334 [info] [Info  - 2:11:18 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:11:25.617 [info] [Error - 2:11:25 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:11:39.433 [info] [Info  - 2:11:39 PM] (17608) Found 42187 source files
+2025-05-04 14:11:39.616 [info] [Warn  - 2:11:39 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:11:39.620 [info] [Warn  - 2:11:39 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:11:49.581 [info] [Info  - 2:11:49 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:11:56.666 [info] [Error - 2:11:56 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:12:11.233 [info] [Info  - 2:12:11 PM] (17608) Found 42187 source files
+2025-05-04 14:12:11.239 [info] [Info  - 2:12:11 PM] (17608) BG: [BG(11)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3171ms)
+2025-05-04 14:12:11.239 [info] [Info  - 2:12:11 PM] (17608) BG: [BG(11)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3171ms)
+2025-05-04 14:12:24.183 [info] [Info  - 2:12:24 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:12:31.342 [info] [Error - 2:12:31 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:12:45.870 [info] [Info  - 2:12:45 PM] (17608) Found 42187 source files
+2025-05-04 14:12:45.896 [info] [Warn  - 2:12:45 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:12:47.173 [info] [Info  - 2:12:47 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3449ms)
+2025-05-04 14:12:47.173 [info] [Info  - 2:12:47 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3963ms)
+2025-05-04 14:12:54.760 [info] [Info  - 2:12:54 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:13:01.996 [info] [Error - 2:13:01 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:13:13.832 [info] [Info  - 2:13:13 PM] (17608) Found 42187 source files
+2025-05-04 14:13:13.842 [info] [Info  - 2:13:13 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3329ms)
+2025-05-04 14:13:13.842 [info] [Info  - 2:13:13 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3329ms)
+2025-05-04 14:13:13.950 [info] [Warn  - 2:13:13 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:13:25.146 [info] [Info  - 2:13:25 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:13:31.677 [info] [Error - 2:13:31 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:13:46.363 [info] [Info  - 2:13:46 PM] (17608) Found 42187 source files
+2025-05-04 14:13:46.378 [info] [Info  - 2:13:46 PM] (17608) BG: [BG(11)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3770ms)
+2025-05-04 14:13:46.378 [info] [Info  - 2:13:46 PM] (17608) BG: [BG(11)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4480ms)
+2025-05-04 14:14:02.066 [info] [Info  - 2:14:02 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:14:09.390 [info] [Error - 2:14:09 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:14:23.582 [info] [Info  - 2:14:23 PM] (17608) Found 42187 source files
+2025-05-04 14:14:23.604 [info] [Warn  - 2:14:23 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:14:24.731 [info] [Info  - 2:14:24 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3814ms)
+2025-05-04 14:14:24.732 [info] [Info  - 2:14:24 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4393ms)
+2025-05-04 14:14:37.868 [info] [Info  - 2:14:37 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:14:44.335 [info] [Error - 2:14:44 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:15:00.053 [info] [Info  - 2:15:00 PM] (17608) Found 42187 source files
+2025-05-04 14:15:00.065 [info] [Info  - 2:15:00 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3427ms)
+2025-05-04 14:15:00.066 [info] [Info  - 2:15:00 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3427ms)
+2025-05-04 14:15:07.417 [info] [Info  - 2:15:07 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:15:14.437 [info] [Error - 2:15:14 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:15:29.550 [info] [Info  - 2:15:29 PM] (17608) Found 42187 source files
+2025-05-04 14:15:29.675 [info] [Info  - 2:15:29 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3334ms)
+2025-05-04 14:15:29.677 [info] [Info  - 2:15:29 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3336ms)
+2025-05-04 14:15:29.783 [info] [Warn  - 2:15:29 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:15:37.149 [info] [Info  - 2:15:37 PM] (17608) BG: Indexer background runner(15) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:15:37.150 [info] [Info  - 2:15:37 PM] (17608) BG: Indexing(15) started
+2025-05-04 14:15:37.151 [info] [Info  - 2:15:37 PM] (17608) BG: [IDX(15)] Long operation: scan packages file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages (2737ms)
+2025-05-04 14:15:37.152 [info] [Info  - 2:15:37 PM] (17608) BG: scanned(15) 16 files over 1 exec env
+2025-05-04 14:15:39.092 [info] [Info  - 2:15:39 PM] (17608) BG: indexed(15) 16 files over 1 exec env
+2025-05-04 14:15:39.518 [info] [Info  - 2:15:39 PM] (17608) BG: Indexing finished(15).
+2025-05-04 14:15:43.343 [info] [Info  - 2:15:43 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4575ms)
+2025-05-04 14:15:43.344 [info] [Info  - 2:15:43 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (6200ms)
+2025-05-04 14:15:52.451 [info] [Info  - 2:15:52 PM] (17608) BG: Indexer background runner(16) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:15:52.452 [info] [Info  - 2:15:52 PM] (17608) BG: Indexing(16) started
+2025-05-04 14:15:56.173 [info] [Info  - 2:15:56 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4145ms)
+2025-05-04 14:15:56.178 [info] [Info  - 2:15:56 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (5909ms)
+2025-05-04 14:15:56.210 [info] [Info  - 2:15:56 PM] (17608) BG: [IDX(16)] Long operation: scan packages file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages (3214ms)
+2025-05-04 14:15:56.210 [info] [Info  - 2:15:56 PM] (17608) BG: scanned(16) 16 files over 1 exec env
+2025-05-04 14:15:56.823 [info] [Info  - 2:15:56 PM] (17608) BG: indexed(16) 16 files over 1 exec env
+2025-05-04 14:15:56.849 [info] [Info  - 2:15:56 PM] (17608) BG: Indexing finished(16).
+2025-05-04 14:16:02.187 [info] [Info  - 2:16:02 PM] (17608) BG: Indexer background runner(17) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:16:02.188 [info] [Info  - 2:16:02 PM] (17608) BG: Indexing(17) started
+2025-05-04 14:16:05.009 [info] [Info  - 2:16:05 PM] (17608) BG: [IDX(17)] Long operation: scan packages file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages (2403ms)
+2025-05-04 14:16:05.009 [info] [Info  - 2:16:05 PM] (17608) BG: scanned(17) 16 files over 1 exec env
+2025-05-04 14:16:05.512 [info] [Info  - 2:16:05 PM] (17608) BG: indexed(17) 16 files over 1 exec env
+2025-05-04 14:16:05.546 [info] [Info  - 2:16:05 PM] (17608) BG: Indexing finished(17).
+2025-05-04 14:16:06.057 [info] [Warn  - 2:16:06 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:16:09.385 [info] [Info  - 2:16:09 PM] (17608) BG: [BG(11)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3155ms)
+2025-05-04 14:16:09.386 [info] [Info  - 2:16:09 PM] (17608) BG: [BG(11)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3307ms)
+2025-05-04 14:21:00.707 [info] [Info  - 2:21:00 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:21:08.023 [info] [Error - 2:21:08 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:21:18.992 [info] [Info  - 2:21:18 PM] (17608) Found 42197 source files
+2025-05-04 14:21:19.001 [info] [Info  - 2:21:19 PM] (17608) BG: Indexer background runner(18) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:21:19.003 [info] [Info  - 2:21:19 PM] (17608) BG: Indexing(18) started
+2025-05-04 14:21:22.156 [info] [Info  - 2:21:22 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:21:29.008 [info] [Error - 2:21:29 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:21:46.539 [info] [Info  - 2:21:46 PM] (17608) Found 42197 source files
+2025-05-04 14:21:46.662 [info] [Info  - 2:21:46 PM] (17608) BG: Indexing finished(18).
+2025-05-04 14:21:46.676 [info] [Info  - 2:21:46 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4825ms)
+2025-05-04 14:21:46.677 [info] [Info  - 2:21:46 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (5402ms)
+2025-05-04 14:21:53.617 [info] [Info  - 2:21:53 PM] (17608) BG: Indexer background runner(19) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:21:53.618 [info] [Info  - 2:21:53 PM] (17608) BG: Indexing(19) started
+2025-05-04 14:21:53.618 [info] [Info  - 2:21:53 PM] (17608) BG: [IDX(19)] Long operation: scan packages file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages (2961ms)
+2025-05-04 14:21:53.619 [info] [Info  - 2:21:53 PM] (17608) BG: scanned(19) 16 files over 1 exec env
+2025-05-04 14:21:55.241 [info] [Info  - 2:21:55 PM] (17608) BG: indexed(19) 16 files over 1 exec env
+2025-05-04 14:21:55.729 [info] [Info  - 2:21:55 PM] (17608) BG: Indexing finished(19).
+2025-05-04 14:22:05.380 [info] [Info  - 2:22:05 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:22:11.730 [info] [Error - 2:22:11 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:22:30.533 [info] [Info  - 2:22:30 PM] (17608) Found 42207 source files
+2025-05-04 14:22:30.728 [info] [Warn  - 2:22:30 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:22:41.686 [info] [Info  - 2:22:41 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:22:48.715 [info] [Error - 2:22:48 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:23:04.561 [info] [Info  - 2:23:04 PM] (17608) Found 42207 source files
+2025-05-04 14:23:04.706 [info] [Warn  - 2:23:04 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:23:04.713 [info] [Info  - 2:23:04 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4524ms)
+2025-05-04 14:23:04.713 [info] [Info  - 2:23:04 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4945ms)
+2025-05-04 14:23:12.764 [info] [Warn  - 2:23:12 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:23:13.229 [info] [Info  - 2:23:13 PM] (17608) BG: Indexer background runner(20) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:23:13.230 [info] [Info  - 2:23:13 PM] (17608) BG: Indexing(20) started
+2025-05-04 14:23:13.230 [info] [Info  - 2:23:13 PM] (17608) BG: [IDX(20)] Long operation: scan packages file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages (2422ms)
+2025-05-04 14:23:13.231 [info] [Info  - 2:23:13 PM] (17608) BG: scanned(20) 16 files over 1 exec env
+2025-05-04 14:23:14.964 [info] [Info  - 2:23:14 PM] (17608) BG: Indexing finished(20).
+2025-05-04 14:23:16.255 [info] [Info  - 2:23:16 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3329ms)
+2025-05-04 14:23:16.256 [info] [Info  - 2:23:16 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3491ms)
+2025-05-04 14:23:24.772 [info] [Info  - 2:23:24 PM] (17608) BG: Indexer background runner(21) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:23:24.773 [info] [Info  - 2:23:24 PM] (17608) BG: Indexing(21) started
+2025-05-04 14:23:26.813 [info] [Info  - 2:23:26 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3533ms)
+2025-05-04 14:23:26.814 [info] [Info  - 2:23:26 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4017ms)
+2025-05-04 14:23:27.898 [info] [Info  - 2:23:27 PM] (17608) BG: [IDX(21)] Long operation: scan packages file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages (2644ms)
+2025-05-04 14:23:27.898 [info] [Info  - 2:23:27 PM] (17608) BG: scanned(21) 16 files over 1 exec env
+2025-05-04 14:23:28.433 [info] [Info  - 2:23:28 PM] (17608) BG: indexed(21) 16 files over 1 exec env
+2025-05-04 14:23:28.461 [info] [Info  - 2:23:28 PM] (17608) BG: Indexing finished(21).
+2025-05-04 14:23:39.777 [info] [Warn  - 2:23:39 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:23:43.405 [info] [Info  - 2:23:43 PM] (17608) BG: [BG(11)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3530ms)
+2025-05-04 14:23:43.407 [info] [Info  - 2:23:43 PM] (17608) BG: [BG(11)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3583ms)
+2025-05-04 14:23:54.591 [info] [Info  - 2:23:54 PM] (17608) BG: Indexer background runner(22) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:23:54.591 [info] [Info  - 2:23:54 PM] (17608) BG: Indexing(22) started
+2025-05-04 14:23:57.109 [info] [Info  - 2:23:57 PM] (17608) BG: [BG(11)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3485ms)
+2025-05-04 14:23:57.110 [info] [Info  - 2:23:57 PM] (17608) BG: [BG(11)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (4281ms)
+2025-05-04 14:23:57.471 [info] [Info  - 2:23:57 PM] (17608) BG: [IDX(22)] Long operation: scan packages file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages (2394ms)
+2025-05-04 14:23:57.471 [info] [Info  - 2:23:57 PM] (17608) BG: scanned(22) 16 files over 1 exec env
+2025-05-04 14:23:58.028 [info] [Info  - 2:23:58 PM] (17608) BG: indexed(22) 16 files over 1 exec env
+2025-05-04 14:23:58.075 [info] [Info  - 2:23:58 PM] (17608) BG: Indexing finished(22).
+2025-05-04 14:26:47.254 [info] [Info  - 2:26:47 PM] (17608) Starting service instance "site-packages" for workspace "c:\users\bharath\anaconda3\lib\site-packages"
+2025-05-04 14:26:47.553 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 14:26:47.686 [info] [Info  - 2:26:47 PM] (17608) Setting environmentName for service "site-packages": "3.12.7 (base conda)"
+2025-05-04 14:26:47.687 [info] [Info  - 2:26:47 PM] (17608) Setting pythonPath for service "site-packages": "c:\Users\BHARATH\.vscode\extensions\ms-python.vscode-pylance-2025.4.1\dist"
+2025-05-04 14:26:47.689 [info] [Info  - 2:26:47 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 14:26:47.689 [info] [Info  - 2:26:47 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 14:26:47.690 [info] [Info  - 2:26:47 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 14:26:47.690 [info] [Info  - 2:26:47 PM] (17608) Auto-excluding **/.*
+2025-05-04 14:26:51.708 [info] [Info  - 2:26:51 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:26:57.914 [info] [Error - 2:26:57 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:27:01.840 [info] [Info  - 2:27:01 PM] (17608) Found 42736 source files
+2025-05-04 14:27:01.964 [info] [Info  - 2:27:01 PM] (17608) BG: Priority queue background worker(24) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 14:27:01.965 [info] [Info  - 2:27:01 PM] (17608) BG: Priority queue background worker(24) started
+2025-05-04 14:27:03.193 [info] [Info  - 2:27:03 PM] (17608) BG: Indexer background runner(25) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-05-04 14:27:03.197 [info] [Info  - 2:27:03 PM] (17608) BG: Indexing(25) started
+2025-05-04 14:27:03.934 [info] [Info  - 2:27:03 PM] (17608) BG: scanned(25) 4 files over 1 exec env
+2025-05-04 14:27:04.224 [info] [Info  - 2:27:04 PM] (17608) BG: indexed(25) 4 files over 1 exec env
+2025-05-04 14:27:04.250 [info] [Info  - 2:27:04 PM] (17608) BG: Indexing finished(25).
+2025-05-04 14:27:07.250 [info] [Info  - 2:27:07 PM] (17608) BG: [BG(23)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3244ms)
+2025-05-04 14:27:07.251 [info] [Info  - 2:27:07 PM] (17608) BG: [BG(23)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3492ms)
+2025-05-04 14:27:25.734 [info] [Warn  - 2:27:25 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
+2025-05-04 14:27:59.279 [info] [Info  - 2:27:59 PM] (17608) Starting service instance "site-packages" for workspace "c:\users\bharath\anaconda3\lib\site-packages"
+2025-05-04 14:27:59.675 [info] Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+
+2025-05-04 14:27:59.858 [info] [Info  - 2:27:59 PM] (17608) Setting environmentName for service "site-packages": "3.12.7 (base conda)"
+2025-05-04 14:27:59.859 [info] [Info  - 2:27:59 PM] (17608) Setting pythonPath for service "site-packages": "c:\Users\BHARATH\anaconda3\python.exe"
+2025-05-04 14:27:59.863 [info] [Info  - 2:27:59 PM] (17608) No include entries specified; assuming c:\Users\BHARATH\anaconda3\Lib\site-packages
+2025-05-04 14:27:59.864 [info] [Info  - 2:27:59 PM] (17608) Auto-excluding **/node_modules
+2025-05-04 14:27:59.865 [info] [Info  - 2:27:59 PM] (17608) Auto-excluding **/__pycache__
+2025-05-04 14:27:59.869 [info] [Info  - 2:27:59 PM] (17608) Auto-excluding **/.*
+2025-05-04 14:28:00.093 [info] [Info  - 2:28:00 PM] (17608) Assuming Python version 3.12.7.final.0
+2025-05-04 14:28:02.960 [info] [Info  - 2:28:02 PM] (17608) Auto-excluding c:\Users\BHARATH\anaconda3\Lib\site-packages\conda\shell
+2025-05-04 14:28:10.558 [info] [Error - 2:28:10 PM] (17608) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-05-04 14:28:17.712 [info] [Info  - 2:28:17 PM] (17608) Found 42736 source files
+2025-05-04 14:28:17.804 [info] [Info  - 2:28:17 PM] (17608) BG: Priority queue background worker(27) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-04 14:28:17.804 [info] [Info  - 2:28:17 PM] (17608) BG: Priority queue background worker(27) started
+2025-05-04 14:28:19.567 [info] [Info  - 2:28:19 PM] (17608) BG: Indexer background runner(28) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:28:19.568 [info] [Info  - 2:28:19 PM] (17608) BG: Indexing(28) started
+2025-05-04 14:28:22.411 [info] [Info  - 2:28:22 PM] (17608) BG: [IDX(28)] Long operation: scan packages file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages (2132ms)
+2025-05-04 14:28:22.412 [info] [Info  - 2:28:22 PM] (17608) BG: Indexing finished(28).
+2025-05-04 14:28:24.901 [info] [Info  - 2:28:24 PM] (17608) BG: [BG(26)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3778ms)
+2025-05-04 14:28:24.902 [info] [Info  - 2:28:24 PM] (17608) BG: [BG(26)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3781ms)
+2025-05-04 14:28:33.592 [info] [Info  - 2:28:33 PM] (17608) BG: Indexer background runner(29) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:28:33.593 [info] [Info  - 2:28:33 PM] (17608) BG: Indexing(29) started
+2025-05-04 14:28:35.504 [info] [Info  - 2:28:35 PM] (17608) BG: [BG(1)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (2710ms)
+2025-05-04 14:28:35.505 [info] [Info  - 2:28:35 PM] (17608) BG: [BG(1)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (3198ms)
+2025-05-04 14:28:35.639 [info] [Info  - 2:28:35 PM] (17608) BG: scanned(29) 16 files over 1 exec env
+2025-05-04 14:28:35.923 [info] [Info  - 2:28:35 PM] (17608) BG: indexed(29) 16 files over 1 exec env
+2025-05-04 14:28:35.940 [info] [Info  - 2:28:35 PM] (17608) BG: Indexing finished(29).
+2025-05-04 14:28:38.337 [info] [Info  - 2:28:38 PM] (17608) BG: Indexer background runner(30) root directory: file:///c%3A/Users/BHARATH/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-05-04 14:28:38.338 [info] [Info  - 2:28:38 PM] (17608) BG: Indexing(30) started
+2025-05-04 14:28:39.603 [info] [Info  - 2:28:39 PM] (17608) BG: [BG(26)] Long operation: checking: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (2087ms)
+2025-05-04 14:28:39.603 [info] [Info  - 2:28:39 PM] (17608) BG: [BG(26)] Long operation: analyzing: file:///c%3A/Users/BHARATH/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py (2283ms)
+2025-05-04 14:28:40.288 [info] [Info  - 2:28:40 PM] (17608) BG: scanned(30) 16 files over 1 exec env
+2025-05-04 14:28:40.551 [info] [Info  - 2:28:40 PM] (17608) BG: indexed(30) 16 files over 1 exec env
+2025-05-04 14:28:40.576 [info] [Info  - 2:28:40 PM] (17608) BG: Indexing finished(30).
+2025-05-04 14:28:45.189 [info] [Warn  - 2:28:45 PM] (17608) BG: Workspace indexing has hit its upper limit: 2000 files
